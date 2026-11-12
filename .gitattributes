@@ -30,3 +30,4 @@ Juego/InfluencerClash_Data/Managed/System.Xml.dll filter=lfs diff=lfs merge=lfs 
 Juego/InfluencerClash_Data/Managed/UnityEngine.UIElementsModule.dll filter=lfs diff=lfs merge=lfs -text
 Juego/InfluencerClash_Data/Resources/unity[[:space:]]default[[:space:]]resources filter=lfs diff=lfs merge=lfs -text
 Juego/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
+Descargas/*.zip filter=lfs diff=lfs merge=lfs -text
